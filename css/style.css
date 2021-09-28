@@ -297,12 +297,13 @@ ul {
 	text-align: center;
 }
 
-/* .cart-icon {
-	margin: ;
-} */
+.cart-icon {
+	cursor: pointer;
+}
 
 .menu-icon {
 	width: 28px;
+	cursor: pointer;
 	margin: 0 0 0 20px;
 	display: none;
 }
