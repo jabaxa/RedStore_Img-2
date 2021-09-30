@@ -243,7 +243,6 @@ small {
 	color: #8a8a8a;
 	font-style: 14px;
 	padding: 60px 0 20px;
-	max-height: 100%;
 }
 
 .footer p {
@@ -337,6 +336,11 @@ ul {
 .row-2 {
 	justify-content: space-between;
 	margin: 100px auto 50px;
+}
+
+.row-2 h2 {
+	align-items: center;
+	margin-bottom: -20px;
 }
 
 select {
